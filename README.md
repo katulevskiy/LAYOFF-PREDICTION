@@ -1,6 +1,7 @@
 # PROJECT DOCUMENTATION
 
 Based on https://www.kaggle.com/datasets/ulrikeherold/tech-layoffs-2020-2024/data
+Forked initial pre-processing from https://github.com/katulevskiy/tech_layoffs_ml
 
 ## Data pre-processing
 
